@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <ru>cafa1ed96eed0a3ad2948f32cfcf3b31f4f082ae9b489d9f370dee8c8a87ecc7</ru>
@@ -14,7 +14,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke_.mp4" size="172618" type="video/mp4" volume="1">517ee03436872ba771131757497016f682b1be592b675e0e73d3ee3f0aa0a5b3</video>
+    <video name="1t.mp4" size="1504221" type="video/mp4" volume="0.5">c9fb74ce561ee4a706b02dc0ee50f853c899cb11df311077b019186bb0c0f4c3</video>
     <notes>
       <note number="1" values="58" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
       <note number="2" values="38" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -29,7 +29,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke1_.mp4" size="335029" type="video/mp4" volume="1">4c27819e5c08e152ec1eb76edbc219729f1239c26a1cdde1de4bb992b2cb53c7</video>
+    <video name="2t.mp4" size="889389" type="video/mp4" volume="0.5">0ec81c983ee1c017a67a4d7617caa05c520f46ad4584b2797e71c3e537d5b136</video>
     <notes>
       <note number="1" values="58" ticks="2" durationTicks="48" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="50" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -43,7 +43,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke2_.mp4" size="219918" type="video/mp4" volume="1">608b47a362ac569aa523370d88cdc699c02ab56021a06f8b5ad4a776061ccff9</video>
+    <video name="3t.mp4" size="1489162" type="video/mp4" volume="0.5">f1f18e4bffec445bdb53a6a0f733ea61fe8b0a70be18f2b084132c507b2cb481</video>
     <notes>
       <note number="1" values="68" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
       <note number="2" values="188" ticks="122" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -58,7 +58,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke3_.mp4" size="387558" type="video/mp4" volume="1">06f9a5e5b60f37e3cff58dd6b32e743d41278c2f17c1b114730a1e28edeb8457</video>
+    <video name="4t.mp4" size="779407" type="video/mp4" volume="0.5">fefab1bb084b7143c66f9346a2297e467134be5cb02f76de1bc1d48099fcb2c7</video>
     <notes>
       <note number="1" values="58" ticks="6" durationTicks="45" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="52" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -72,7 +72,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke4_.mp4" size="332013" type="video/mp4" volume="1">628b65b365310efc83ebbd878c511dbca0082a68c18f19df71ace2e84b77cc4f</video>
+    <video name="5t.mp4" size="1374298" type="video/mp4" volume="0.5">4bbd775d9a1f37a2939bdd6147e44dc6003a0140b38c2e2885e1c6c878238d16</video>
     <notes>
       <note number="1" values="68" ticks="11" durationTicks="70" ppq="96" velocity="0.646"/>
       <note number="2" values="188" ticks="96" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -87,7 +87,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="6t.mp4" size="2065634" type="video/mp4" volume="0.5">052e4fc54263de580b61791a61ef738a925701adef9bb56177ee96536c45afed</video>
     <notes>
       <note number="1" values="58" ticks="5" durationTicks="45" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="52" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -101,7 +101,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="7t.mp4" size="1975147" type="video/mp4" volume="0.5">cc1f6a110fda9188739131c2a88cffceb268ef0ada634ea2d5d99d5054e5170b</video>
     <notes>
       <note number="1" values="38" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="122" durationTicks="44" ppq="96" velocity="0.622"/>
@@ -116,7 +116,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="8t.mp4" size="1426932" type="video/mp4" volume="0.5">73afbeb05ef711abbc861a132c2a5f1405b584586929501caf12e89cbd0777eb</video>
     <notes>
       <note number="1" values="38" ticks="2" durationTicks="48" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="50" durationTicks="44" ppq="96" velocity="0.622"/>
@@ -130,7 +130,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="9t.mp4" size="1939410" type="video/mp4" volume="0.5">a88472edb35b1d7fa7512d88cd7e422f8c2bb0d9cf9973a1206e91266bc9abc2</video>
     <notes>
       <note number="1" values="38" ticks="25" durationTicks="94" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="122" durationTicks="44" ppq="96" velocity="0.622"/>
@@ -145,7 +145,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="10t.mp4" size="1377809" type="video/mp4" volume="0.5">14a1b09f366fcb48b15f6bd676fc398e3c23cbf551747456a695c0887585f2ff</video>
     <notes>
       <note number="1" values="38" ticks="6" durationTicks="45" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="52" durationTicks="44" ppq="96" velocity="0.622"/>
@@ -159,7 +159,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="11t.mp4" size="1502889" type="video/mp4" volume="0.5">e466ec5a059a1c04bcd108e24fc5099bfc969bd0c5b309adcaa3801a07059e8d</video>
     <notes>
       <note number="1" values="38" ticks="11" durationTicks="70" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="96" durationTicks="44" ppq="96" velocity="0.622"/>
@@ -174,7 +174,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="malenkoy-elochke5_.mp4" size="392184" type="video/mp4" volume="1">c2c42c7df703aeaf61aaed773d711f8aac8bbaa4ee3214a830c1fab64757aab0</video>
+    <video name="12t.mp4" size="1253054" type="video/mp4" volume="0.5">2abd88ef57e6ab47039bd3ae8c7e3a9fa778623277fc939d182b14940a6eba42</video>
     <notes>
       <note number="1" values="38" ticks="5" durationTicks="45" ppq="96" velocity="0.646"/>
       <note number="2" values="58" ticks="52" durationTicks="44" ppq="96" velocity="0.622"/>
