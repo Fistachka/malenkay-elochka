@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <ru>d1dcbaff447aae1f5ba1274f8a509595a17c2c6da434b88856081a0e5ea8cd31</ru>
@@ -29,7 +29,7 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="2t.mp4" size="889389" type="video/mp4" volume="0.5">0ec81c983ee1c017a67a4d7617caa05c520f46ad4584b2797e71c3e537d5b136</video>
+    <video name="2t.mp4" size="889389" type="video/mp4" volume="0.513">0ec81c983ee1c017a67a4d7617caa05c520f46ad4584b2797e71c3e537d5b136</video>
     <notes>
       <note number="1" values="58" ticks="5" durationTicks="48" ppq="96" velocity="0.646"/>
       <note number="2" values="48" ticks="53" durationTicks="44" ppq="96" velocity="0.626"/>
@@ -43,14 +43,14 @@
     <bpm>103</bpm>
     <lowestNote>18</lowestNote>
     <tonalities>4</tonalities>
-    <video name="3t.mp4" size="1489162" type="video/mp4" volume="0.5">f1f18e4bffec445bdb53a6a0f733ea61fe8b0a70be18f2b084132c507b2cb481</video>
+    <video name="3t.mp4" size="1489162" type="video/mp4" volume="0.519">f1f18e4bffec445bdb53a6a0f733ea61fe8b0a70be18f2b084132c507b2cb481</video>
     <notes>
-      <note number="1" values="68" ticks="42" durationTicks="94" ppq="96" velocity="0.646"/>
-      <note number="2" values="188" ticks="139" durationTicks="44" ppq="96" velocity="0.626"/>
-      <note number="3" values="68" ticks="185" durationTicks="45" ppq="96" velocity="0.601"/>
-      <note number="4" values="58" ticks="238" durationTicks="93" ppq="96" velocity="0.666"/>
-      <note number="5" values="38" ticks="334" durationTicks="47" ppq="96" velocity="0.636"/>
-      <note number="6" values="38" ticks="359" durationTicks="104" ppq="96" velocity="0.624"/>
+      <note number="1" values="68" ticks="52" durationTicks="94" ppq="96" velocity="0.646"/>
+      <note number="2" values="188" ticks="149" durationTicks="44" ppq="96" velocity="0.626"/>
+      <note number="3" values="68" ticks="195" durationTicks="45" ppq="96" velocity="0.601"/>
+      <note number="4" values="58" ticks="248" durationTicks="93" ppq="96" velocity="0.666"/>
+      <note number="5" values="38" ticks="344" durationTicks="47" ppq="96" velocity="0.636"/>
+      <note number="6" values="38" ticks="394" durationTicks="104" ppq="96" velocity="0.624"/>
     </notes>
   </exercise>
   <exercise number="4">
