@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <ru>d1dcbaff447aae1f5ba1274f8a509595a17c2c6da434b88856081a0e5ea8cd31</ru>
@@ -21,7 +21,7 @@
       <note number="3" values="38" ticks="408" durationTicks="45" ppq="96" velocity="0.706"/>
       <note number="4" values="58" ticks="456" durationTicks="93" ppq="96" velocity="0.822"/>
       <note number="5" values="38" ticks="552" durationTicks="47" ppq="96" velocity="0.636"/>
-      <note number="6" values="38" ticks="578" durationTicks="48" ppq="96" velocity="0.624"/>
+      <note number="6" values="38" ticks="601" durationTicks="48" ppq="96" velocity="0.624"/>
     </notes>
   </exercise>
   <exercise number="2">
