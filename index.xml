@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>malenkay-elochka</repo>
-  <version>v1.0.9</version>
+  <version>v1.0.10</version>
   <next number="1" owner="stolbitsa" repo="elochka"/>
   <readme>
     <ru>d1dcbaff447aae1f5ba1274f8a509595a17c2c6da434b88856081a0e5ea8cd31</ru>
@@ -103,12 +103,12 @@
     <tonalities>4</tonalities>
     <video name="7ut.mp4" size="1588183" type="video/mp4" volume="0.5">19d6f98390b13d60668671a0db7b69e3276c842927811006fd025cb1bc1cb367</video>
     <notes>
-      <note number="1" values="58" ticks="23" durationTicks="94" ppq="96" velocity="0.819"/>
-      <note number="2" values="38" ticks="120" durationTicks="44" ppq="96" velocity="0.709"/>
-      <note number="3" values="38" ticks="166" durationTicks="45" ppq="96" velocity="0.701"/>
-      <note number="4" values="58" ticks="214" durationTicks="93" ppq="96" velocity="0.819"/>
-      <note number="5" values="38" ticks="308" durationTicks="96" ppq="96" velocity="0.8"/>
-      <note number="6" values="38" ticks="355" durationTicks="96" ppq="96" velocity="0.8"/>
+      <note number="1" values="58" ticks="48" durationTicks="94" ppq="96" velocity="0.819"/>
+      <note number="2" values="38" ticks="145" durationTicks="44" ppq="96" velocity="0.709"/>
+      <note number="3" values="38" ticks="191" durationTicks="45" ppq="96" velocity="0.701"/>
+      <note number="4" values="58" ticks="239" durationTicks="93" ppq="96" velocity="0.819"/>
+      <note number="5" values="38" ticks="333" durationTicks="96" ppq="96" velocity="0.8"/>
+      <note number="6" values="38" ticks="380" durationTicks="96" ppq="96" velocity="0.8"/>
     </notes>
   </exercise>
   <exercise number="8">
@@ -118,11 +118,11 @@
     <tonalities>4</tonalities>
     <video name="8t.mp4" size="1426932" type="video/mp4" volume="0.5">73afbeb05ef711abbc861a132c2a5f1405b584586929501caf12e89cbd0777eb</video>
     <notes>
-      <note number="1" values="58" ticks="5" durationTicks="48" ppq="96" velocity="0.646"/>
-      <note number="2" values="48" ticks="53" durationTicks="44" ppq="96" velocity="0.622"/>
-      <note number="3" values="38" ticks="104" durationTicks="45" ppq="96" velocity="0.598"/>
-      <note number="4" values="28" ticks="150" durationTicks="47" ppq="96" velocity="0.661"/>
-      <note number="5" values="18" ticks="199" durationTicks="95" ppq="96" velocity="0.63"/>
+      <note number="1" values="58" ticks="7" durationTicks="48" ppq="96" velocity="0.646"/>
+      <note number="2" values="48" ticks="55" durationTicks="44" ppq="96" velocity="0.622"/>
+      <note number="3" values="38" ticks="106" durationTicks="45" ppq="96" velocity="0.598"/>
+      <note number="4" values="28" ticks="152" durationTicks="47" ppq="96" velocity="0.661"/>
+      <note number="5" values="18" ticks="201" durationTicks="95" ppq="96" velocity="0.63"/>
     </notes>
   </exercise>
   <exercise number="9">
@@ -147,11 +147,11 @@
     <tonalities>4</tonalities>
     <video name="10t.mp4" size="1377809" type="video/mp4" volume="0.5">14a1b09f366fcb48b15f6bd676fc398e3c23cbf551747456a695c0887585f2ff</video>
     <notes>
-      <note number="1" values="58" ticks="6" durationTicks="45" ppq="96" velocity="0.646"/>
-      <note number="2" values="48" ticks="52" durationTicks="44" ppq="96" velocity="0.622"/>
-      <note number="3" values="38" ticks="100" durationTicks="45" ppq="96" velocity="0.598"/>
-      <note number="4" values="28" ticks="148" durationTicks="47" ppq="96" velocity="0.661"/>
-      <note number="5" values="18" ticks="197" durationTicks="94" ppq="96" velocity="0.63"/>
+      <note number="1" values="58" ticks="1" durationTicks="45" ppq="96" velocity="0.646"/>
+      <note number="2" values="48" ticks="45" durationTicks="44" ppq="96" velocity="0.622"/>
+      <note number="3" values="38" ticks="93" durationTicks="45" ppq="96" velocity="0.598"/>
+      <note number="4" values="28" ticks="141" durationTicks="47" ppq="96" velocity="0.661"/>
+      <note number="5" values="18" ticks="190" durationTicks="94" ppq="96" velocity="0.63"/>
     </notes>
   </exercise>
   <exercise number="11">
